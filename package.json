@@ -4,7 +4,7 @@
     "description": "A theme as accurate to Github's dark theme as possible, but with purple accents!",
     "version": "0.0.15",
     "engines": {
-        "vscode": "^1.54.0"
+        "vscode": "^1.74.0"
     },
     "categories": [
         "Themes"
